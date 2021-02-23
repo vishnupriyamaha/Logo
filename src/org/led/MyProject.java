@@ -6,8 +6,11 @@ public class MyProject {
 	}
 	
 	public static void main(String[] args) {
+
 		MyProject m=new MyProject();
 		m.emp();
+		System.out.println("my project is successfully done");
+
 		
 	}
 
